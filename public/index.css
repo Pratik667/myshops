@@ -1,0 +1,15 @@
+.product-image{
+  width: 70%;
+  height: 200px;
+}
+.product-img-parent{
+  height: auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-product{
+  margin: 0.5rem;
+}
